@@ -1,0 +1,11 @@
+#block {
+  width: 100px;
+  height: 40px;
+  border: 1px solid black;
+}
+label {
+  display: block;
+}
+.nums {
+  margin-top: 20px;
+}
